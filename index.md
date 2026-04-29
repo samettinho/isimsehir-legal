@@ -7,4 +7,4 @@
 
 ---
 
-İletişim / Contact: _[BURAYA İLETİŞİM EMAILİ]_
+İletişim / Contact: sametyilmaz1628@gmail.com

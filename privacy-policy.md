@@ -6,9 +6,9 @@
 İsim Şehir ("Uygulama", "biz") olarak gizliliğine önem veriyoruz. Bu politika, Uygulamayı kullanırken hangi verilerin toplandığını, nasıl işlendiğini ve haklarını açıklar.
 
 ## 1. Veri Sorumlusu
-- **Geliştirici:** [BURAYA AD/SOYAD veya FİRMA ADI]
-- **İletişim e-postası:** [BURAYA İLETİŞİM EMAILİ]
-- **Adres:** [BURAYA ADRES — KVKK için tüzel kişilikse zorunlu]
+- **Geliştirici:** Samet Yılmaz
+- **İletişim e-postası:** sametyilmaz1628@gmail.com
+- **Adres:** İstanbul / Pendik, Türkiye
 
 ## 2. Topladığımız Veriler
 
@@ -100,7 +100,7 @@ Bu politikayı güncelleyebiliriz. Önemli değişikliklerde uygulama içinde bi
 ## 13. İletişim
 
 Soruların, talepleriniz veya şikayetin için:
-**E-posta:** [BURAYA İLETİŞİM EMAILİ]
+**E-posta:** sametyilmaz1628@gmail.com
 
 KVKK kapsamında yetkili makam:
 **Kişisel Verileri Koruma Kurumu** — https://www.kvkk.gov.tr
@@ -112,9 +112,9 @@ KVKK kapsamında yetkili makam:
 **Effective date:** April 29, 2026
 
 ## 1. Data Controller
-- **Developer:** [YOUR NAME / COMPANY]
-- **Contact email:** [YOUR CONTACT EMAIL]
-- **Address:** [YOUR ADDRESS]
+- **Developer:** Samet Yılmaz
+- **Contact email:** sametyilmaz1628@gmail.com
+- **Address:** İstanbul / Pendik, Turkey
 
 ## 2. Information We Collect
 
@@ -205,7 +205,7 @@ We may update this policy. Material changes will be communicated in-app. The eff
 ## 13. Contact
 
 For questions or requests:
-**Email:** [YOUR CONTACT EMAIL]
+**Email:** sametyilmaz1628@gmail.com
 
 GDPR supervisory authority:
 **Turkish Personal Data Protection Authority** — https://www.kvkk.gov.tr

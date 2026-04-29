@@ -45,7 +45,7 @@ Bu sözleşme Türkiye Cumhuriyeti yasalarına tabidir. Uyuşmazlıklar İstanbu
 Bu şartları güncelleyebiliriz. Güncellemeden sonra uygulamayı kullanmaya devam etmen yeni şartları kabul ettiğin anlamına gelir.
 
 ## 10. İletişim
-**E-posta:** [BURAYA İLETİŞİM EMAILİ]
+**E-posta:** sametyilmaz1628@gmail.com
 
 ---
 
@@ -95,4 +95,4 @@ These terms are governed by the laws of the Republic of Turkey. Disputes are res
 We may update these terms. Continued use after updates constitutes acceptance.
 
 ## 10. Contact
-**Email:** [YOUR CONTACT EMAIL]
+**Email:** sametyilmaz1628@gmail.com
