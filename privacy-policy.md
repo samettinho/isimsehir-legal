@@ -1,7 +1,7 @@
 # Gizlilik Politikası — İsim Şehir
 
-**Yürürlük tarihi:** 11 Mayıs 2026
-**Son güncelleme:** 11 Mayıs 2026
+**Yürürlük tarihi:** 9 Mayıs 2026
+**Son güncelleme:** 9 Mayıs 2026
 
 İsim Şehir ("Uygulama", "biz") olarak gizliliğine önem veriyoruz. Bu politika, Uygulamayı kullanırken hangi verilerin toplandığını, nasıl işlendiğini ve haklarını açıklar.
 
@@ -129,8 +129,8 @@ KVKK kapsamında yetkili makam:
 
 # Privacy Policy — İsim Şehir (English)
 
-**Effective date:** May 11, 2026
-**Last updated:** May 11, 2026
+**Effective date:** May 9, 2026
+**Last updated:** May 9, 2026
 
 İsim Şehir ("the App", "we") respects your privacy. This policy explains what data we collect, how we process it, and your rights.
 

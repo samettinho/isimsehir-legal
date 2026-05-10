@@ -1,6 +1,6 @@
 # Kullanım Şartları — İsim Şehir
 
-**Yürürlük tarihi:** 11 Mayıs 2026
+**Yürürlük tarihi:** 9 Mayıs 2026
 
 İsim Şehir uygulamasını kullanarak aşağıdaki şartları kabul etmiş sayılırsın.
 
@@ -65,7 +65,7 @@ Bu şartları güncelleyebiliriz. Güncellemeden sonra uygulamayı kullanmaya de
 
 # Terms of Service — İsim Şehir (English)
 
-**Effective date:** May 11, 2026
+**Effective date:** May 9, 2026
 
 By using İsim Şehir you accept these terms.
 
